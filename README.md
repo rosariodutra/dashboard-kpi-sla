@@ -1,6 +1,6 @@
 # 📊 Dashboard KPI & SLA — Monitoramento de Chamados
 
-> Sistema de monitoramento de chamados técnicos com controle de SLA, alertas automáticos e dashboard de indicadores em tempo real — desenvolvido em Python puro.
+> Sistema de monitoramento de chamados técnicos com controle de SLA, alertas automáticos e dashboard de indicadores em tempo real — desenvolvido em Python.
 
 ---
 
